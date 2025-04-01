@@ -571,9 +571,7 @@ function ScheduleAudit() {
             </div>
 
             {/* Footer */}
-            <div className="w-full bg-gradient-to-r from-indigo-600 via-purple-430 to-amber-500 text-white p-3 text-center text-sm">
-                Copyright © 2023 Digielves Tech Wizards Private Limited. All rights reserved
-            </div>
+        
         </div>
     )
 }

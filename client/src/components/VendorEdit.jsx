@@ -178,9 +178,7 @@ export default function Edit() {
                         </button>
                     </div>
                 </form>
-                <footer className="mt-6 text-sm text-white">
-                    Copyright © 2023 Digielves Tech Wizards Private Limited. All rights reserved.
-                </footer>
+         
             </div>
         </div>
     );
